@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hershk
+- 👋 Hi, I’m Hersh Ketkar
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on ...
